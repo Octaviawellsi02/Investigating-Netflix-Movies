@@ -22,14 +22,13 @@ I imported the dataset into VS Code, my preferred platform for open-source visua
 # 2. Inspecting the Dataset
 I imported the necessary libraries, pandas and matplotlib, to work with the dataset and visualize the results. Here's why I used them:
 
-Pandas: I imported pandas as pd because it’s a powerful library for data manipulation and analysis. It provides functions like read_csv() which allows me to easily load and handle large datasets, such as the Netflix dataset, in a structured format called a DataFrame.
-Matplotlib: I imported matplotlib.pyplot as plt, which is a popular library for creating visualizations. The abbreviation plt is used as a convention for simplicity. While I didn’t create visualizations in this step, I imported it in preparation for any charts or plots I might need later to analyze the data.
+# Pandas: 
+I imported pandas as pd because it’s a powerful library for data manipulation and analysis. It provides functions like read_csv() which allows me to easily load and handle large datasets, such as the Netflix dataset, in a structured format called a DataFrame.
+# Matplotlib: 
+I imported matplotlib.pyplot as plt, which is a popular library for creating visualizations. The abbreviation plt is used as a convention for simplicity. While I didn’t create visualizations in this step, I imported it in preparation for any charts or plots I might need later to analyze the data.
 After importing these libraries, I used pd.read_csv() to load the Netflix dataset into a DataFrame, as it is specifically designed to handle tabular data from CSV files. I chose the name netflix_df for the DataFrame to make it clear that it contains the Netflix dataset, and naming it this way helps keep the code readable and organized.
 
 The dataset, now stored in netflix_df, contains 4,812 rows and 11 columns, including show_id, type, title, director, cast, country, date_added, release_year, duration, description, and genre. This step helped me understand the structure of the dataset and the details it contains, setting the stage for further analysis.
-
-# 3. Data Cleaning
-We can’t start work on data that isn’t clean because our findings will lead us to work that is not consistent and inaccurate. Let’s sort this first.
 
 # Cleaning the Dataset
 To ensure the data was ready for analysis, I needed to clean it by addressing any inconsistent, irrelevant, or missing data. Here's the process I considered:
