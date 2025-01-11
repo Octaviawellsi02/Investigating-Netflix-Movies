@@ -56,8 +56,10 @@ I identified the most frequent movie duration in the dataset to determine the pr
 I determined the number of action movies with a runtime shorter than 90 minutes, as movies under 90 minutes were considered "short" during the 1990s. This insight prompted me to further analyze and identify how many movies were released in total during this iconic decade, providing a broader understanding of movie trends from the time.
 
 # Findings
-Most Frequent Movie Duration: The most frequent movie duration in the 1990s was approximately 94 minutes.
-Short Action Movies: There were 7 short action movies released during the 1990s.
+# Most Frequent Movie Duration: 
+The most frequent movie duration in the 1990s was approximately 94 minutes.
+# Short Action Movies: 
+There were 7 short action movies released during the 1990s.
 
 # Conclusion
 The findings suggest that in the 1990s, movies generally favored a shorter runtime, with 94 minutes being the most common duration. This could indicate a trend towards more concise storytelling, driven by factors such as audience engagement, production constraints, or changing entertainment consumption patterns.
