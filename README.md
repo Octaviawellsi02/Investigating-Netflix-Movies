@@ -1,5 +1,5 @@
 # Investigating-Netflix-Movies
-his project showcases an Exploratory Data Analysis (EDA) of Netflix movie data, focusing on 1990s trends. It highlights the most frequent movie durations, explores patterns in short action movies, and provides insights into the era's content. Skills demonstrated include data cleaning, filtering, and visualization using Python.
+This project showcases an Exploratory Data Analysis (EDA) of Netflix movie data, focusing on 1990s trends. It highlights the most frequent movie durations, explores patterns in short action movies, and provides insights into the era's content. Skills demonstrated include data cleaning, filtering, and visualization using Python.
 
 # Overview
 This project focuses on performing exploratory data analysis (EDA) on Netflix movies from the 1990s. The goal is to uncover patterns and insights about movies from this nostalgic decade.
